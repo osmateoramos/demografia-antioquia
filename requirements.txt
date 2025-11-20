@@ -1,32 +1,8 @@
 streamlit
 pandas
 altair
-geopandas
 folium
 streamlit-folium
-```
+geopandas
 
-4. Haz clic en **"Commit new file"**
 
----
-
-## ☁️ Paso 5: Desplegar en Streamlit Cloud
-
-1. Ve a https://share.streamlit.io
-2. Haz clic en **"Sign in"** y conecta tu cuenta de GitHub
-3. Haz clic en **"New app"**
-4. Selecciona:
-   - **Repository:** Tu repositorio (ej: `tu-usuario/demografia-antioquia`)
-   - **Branch:** `main`
-   - **Main file path:** El nombre de tu archivo `.py` (ej: `demografia.py`)
-5. Haz clic en **"Deploy!"**
-
----
-
-## ⏳ Paso 6: Esperar el despliegue
-
-- Tomará 2-5 minutos
-- Verás logs en pantalla
-- Cuando termine, te dará una URL como:
-```
-  https://tu-usuario-demografia-antioquia.streamlit.app
